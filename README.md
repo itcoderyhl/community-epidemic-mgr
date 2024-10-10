@@ -1,4 +1,4 @@
-## 【原创】基于java+springboot+mysql开发的社区疫情防控管理系统设计与实现
+## 【原创】基于java+springboot+mysql开发的人脸识别社区疫情防控管理系统设计与实现
 
 ## 系统介绍
 
